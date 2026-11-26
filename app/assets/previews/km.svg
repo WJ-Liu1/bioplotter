@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Kaplan-Meier survival curve preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.7">
+    <path d="M0 60H400M0 100H400M0 140H400M0 180H400"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.22">
+    <path d="M56 188H352M56 188V40"/>
+  </g>
+  <path d="M56 48H104V72H144V96H186V122H228V150H266V174H304V184H352"
+        fill="none" stroke="#AEB474" stroke-width="2.6" stroke-linejoin="miter"/>
+  <path d="M56 48H84V82H116V104H148V138H186V162H224V178H264V184H300V186H352"
+        fill="none" stroke="#54999C" stroke-width="2.6" stroke-linejoin="miter"/>
+  <g stroke="#3E5C6F" stroke-width="1.8">
+    <path d="M96 61V69M134 85V93M176 111V119M218 139V147M254 163V171M292 178V186"/>
+    <path d="M110 71V79M140 93V101M182 127V135M216 151V159M258 177V185M296 181V189"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.5">
+    <rect x="250" y="54" width="46" height="4" rx="2"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1" opacity="0.18">
+    <path d="M56 208H352"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.4">
+    <rect x="56" y="216" width="10" height="4" rx="2"/><rect x="96" y="216" width="10" height="4" rx="2"/>
+    <rect x="136" y="216" width="10" height="4" rx="2"/><rect x="176" y="216" width="10" height="4" rx="2"/>
+    <rect x="216" y="216" width="10" height="4" rx="2"/><rect x="256" y="216" width="10" height="4" rx="2"/>
+    <rect x="296" y="216" width="10" height="4" rx="2"/><rect x="332" y="216" width="10" height="4" rx="2"/>
+  </g>
+</svg>

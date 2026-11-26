@@ -1,0 +1,98 @@
+from,to,value
+Africa,Africa,8
+East Asia,Africa,9
+Europe,Africa,4
+Latin Ame.,Africa,7
+North Ame.,Africa,6
+Oceania,Africa,5
+South Asia,Africa,6
+South East Asia,Africa,3
+Soviet Union,Africa,6
+West.Asia,Africa,6
+Africa,East Asia,5
+East Asia,East Asia,6
+Europe,East Asia,9
+Latin Ame.,East Asia,3
+North Ame.,East Asia,5
+Oceania,East Asia,9
+South Asia,East Asia,10
+South East Asia,East Asia,2
+Soviet Union,East Asia,5
+West.Asia,East Asia,5
+Africa,Europe,8
+East Asia,Europe,3
+Europe,Europe,11
+Latin Ame.,Europe,9
+North Ame.,Europe,2
+Oceania,Europe,5
+South Asia,Europe,4
+South East Asia,Europe,8
+Soviet Union,Europe,5
+West.Asia,Europe,7
+Africa,Latin Ame.,6
+East Asia,Latin Ame.,7
+Europe,Latin Ame.,4
+Latin Ame.,Latin Ame.,6
+Oceania,Latin Ame.,7
+South Asia,Latin Ame.,1
+South East Asia,Latin Ame.,3
+Soviet Union,Latin Ame.,8
+West.Asia,Latin Ame.,5
+Africa,North Ame.,4
+East Asia,North Ame.,4
+Europe,North Ame.,1
+Latin Ame.,North Ame.,10
+North Ame.,North Ame.,4
+Oceania,North Ame.,9
+South Asia,North Ame.,8
+South East Asia,North Ame.,6
+Soviet Union,North Ame.,10
+West.Asia,North Ame.,6
+Africa,Oceania,4
+East Asia,Oceania,4
+Europe,Oceania,4
+Latin Ame.,Oceania,7
+North Ame.,Oceania,1
+Oceania,Oceania,6
+South Asia,Oceania,6
+South East Asia,Oceania,3
+Soviet Union,Oceania,3
+West.Asia,Oceania,5
+Africa,South Asia,6
+East Asia,South Asia,10
+Europe,South Asia,6
+Latin Ame.,South Asia,5
+North Ame.,South Asia,7
+Oceania,South Asia,3
+South Asia,South Asia,4
+South East Asia,South Asia,7
+Soviet Union,South Asia,6
+West.Asia,South Asia,3
+Africa,South East Asia,2
+East Asia,South East Asia,3
+Europe,South East Asia,3
+Latin Ame.,South East Asia,5
+North Ame.,South East Asia,3
+Oceania,South East Asia,6
+South Asia,South East Asia,1
+South East Asia,South East Asia,4
+Soviet Union,South East Asia,5
+Africa,Soviet Union,5
+East Asia,Soviet Union,3
+Europe,Soviet Union,4
+Latin Ame.,Soviet Union,6
+North Ame.,Soviet Union,7
+Oceania,Soviet Union,5
+South Asia,Soviet Union,3
+South East Asia,Soviet Union,2
+Soviet Union,Soviet Union,2
+West.Asia,Soviet Union,4
+Africa,West.Asia,6
+Europe,West.Asia,3
+Latin Ame.,West.Asia,9
+North Ame.,West.Asia,8
+Oceania,West.Asia,6
+South Asia,West.Asia,4
+South East Asia,West.Asia,5
+Soviet Union,West.Asia,6
+West.Asia,West.Asia,6

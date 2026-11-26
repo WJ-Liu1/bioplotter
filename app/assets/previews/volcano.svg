@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Volcano plot preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.7">
+    <path d="M0 70H400M0 120H400M0 170H400"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.22">
+    <path d="M56 196H352M56 196V44"/>
+  </g>
+  <g stroke="#7E8B90" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.85">
+    <path d="M138 44V196M258 44V196M56 88H352"/>
+  </g>
+  <g fill="#AAB3B6" opacity="0.75">
+    <circle cx="168" cy="150" r="3"/><circle cx="186" cy="162" r="3"/><circle cx="204" cy="142" r="3"/>
+    <circle cx="222" cy="158" r="3"/><circle cx="196" cy="172" r="3"/><circle cx="176" cy="132" r="3"/>
+    <circle cx="232" cy="148" r="3"/><circle cx="162" cy="176" r="3"/>
+  </g>
+  <g fill="#54999C" opacity="0.85">
+    <circle cx="126" cy="112" r="3.4"/><circle cx="112" cy="94" r="3.4"/><circle cx="98" cy="126" r="3.4"/>
+    <circle cx="84" cy="82" r="3.4"/><circle cx="120" cy="140" r="3.4"/><circle cx="72" cy="118" r="3.4"/>
+    <circle cx="132" cy="76" r="3.4"/><circle cx="90" cy="152" r="3.4"/><circle cx="106" cy="64" r="3.4"/>
+  </g>
+  <g fill="#AEB474" opacity="0.85">
+    <circle cx="272" cy="104" r="3.4"/><circle cx="286" cy="86" r="3.4"/><circle cx="300" cy="118" r="3.4"/>
+    <circle cx="314" cy="72" r="3.4"/><circle cx="278" cy="132" r="3.4"/><circle cx="326" cy="98" r="3.4"/>
+    <circle cx="266" cy="60" r="3.4"/><circle cx="308" cy="146" r="3.4"/><circle cx="336" cy="120" r="3.4"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.5">
+    <rect x="300" y="52" width="30" height="3" rx="1.5"/><rect x="268" y="48" width="24" height="3" rx="1.5"/>
+    <rect x="112" y="52" width="26" height="3" rx="1.5"/>
+  </g>
+</svg>

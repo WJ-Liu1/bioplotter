@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Mantel test preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.7">
+    <path d="M0 60H400M0 120H400M0 180H400"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.22">
+    <path d="M62 198H300M62 198V62"/>
+  </g>
+  <g fill="#72A5B0" opacity="0.7">
+    <circle cx="88" cy="176" r="4"/><circle cx="108" cy="166" r="4"/><circle cx="124" cy="152" r="4"/>
+    <circle cx="146" cy="158" r="4"/><circle cx="164" cy="138" r="4"/><circle cx="186" cy="144" r="4"/>
+    <circle cx="202" cy="124" r="4"/><circle cx="224" cy="128" r="4"/><circle cx="240" cy="108" r="4"/>
+    <circle cx="262" cy="112" r="4"/><circle cx="280" cy="92" r="4"/><circle cx="154" cy="182" r="4"/>
+    <circle cx="214" cy="160" r="4"/><circle cx="96" cy="144" r="4"/><circle cx="252" cy="146" r="4"/>
+  </g>
+  <path d="M76 190 C130 166 210 142 290 82" fill="none" stroke="#AAC9CF" stroke-width="2.5" opacity="0.8"/>
+  <g>
+    <rect x="312" y="64" width="54" height="54" rx="6" fill="none" stroke="var(--preview-ink,#0f172a)" stroke-width="1.4" opacity="0.3"/>
+    <g opacity="0.55">
+      <rect x="316" y="68" width="14" height="14" rx="2" fill="#72A5B0"/>
+      <rect x="332" y="68" width="14" height="14" rx="2" fill="#AEB474"/>
+      <rect x="348" y="68" width="14" height="14" rx="2" fill="#DCE6E1"/>
+      <rect x="316" y="84" width="14" height="14" rx="2" fill="#AEB474"/>
+      <rect x="332" y="84" width="14" height="14" rx="2" fill="#72A5B0"/>
+      <rect x="348" y="84" width="14" height="14" rx="2" fill="#EBF1EE"/>
+      <rect x="316" y="100" width="14" height="14" rx="2" fill="#DCE6E1"/>
+      <rect x="332" y="100" width="14" height="14" rx="2" fill="#EBF1EE"/>
+      <rect x="348" y="100" width="14" height="14" rx="2" fill="#72A5B0"/>
+    </g>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.45">
+    <rect x="76" y="212" width="40" height="4" rx="2"/>
+    <rect x="312" y="126" width="54" height="4" rx="2"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Hierarchical edge bundling preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.7">
+    <path d="M0 60H400M0 120H400M0 180H400"/>
+  </g>
+  <g fill="none" stroke="var(--preview-ink,#0f172a)" stroke-width="1.6" opacity="0.25">
+    <path d="M200 42 L200 84"/>
+    <path d="M200 84 C160 84 128 96 112 118"/>
+    <path d="M200 84 C240 84 272 96 288 118"/>
+    <path d="M112 118 L72 176 M112 118 L140 176 M288 118 L260 176 M288 118 L328 176"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M72 176 C120 96 280 96 328 176" stroke="#AAAC8D" stroke-width="5" opacity="0.55"/>
+    <path d="M72 176 C140 128 250 128 260 176" stroke="#9AC5C9" stroke-width="3" opacity="0.6"/>
+    <path d="M140 176 C190 108 300 108 328 176" stroke="#87758E" stroke-width="3" opacity="0.55"/>
+    <path d="M72 176 C160 60 300 60 328 176" stroke="#AAAC8D" stroke-width="2" opacity="0.4"/>
+  </g>
+  <g>
+    <circle cx="200" cy="42" r="9" fill="#A2BA80"/>
+    <circle cx="200" cy="84" r="6" fill="#A2BA80" opacity="0.8"/>
+    <circle cx="112" cy="118" r="5.5" fill="#9AC5C9"/>
+    <circle cx="288" cy="118" r="5.5" fill="#9AC5C9"/>
+    <circle cx="72" cy="176" r="5" fill="#54999C"/>
+    <circle cx="140" cy="176" r="5" fill="#54999C"/>
+    <circle cx="260" cy="176" r="5" fill="#54999C"/>
+    <circle cx="328" cy="176" r="5" fill="#54999C"/>
+  </g>
+</svg>

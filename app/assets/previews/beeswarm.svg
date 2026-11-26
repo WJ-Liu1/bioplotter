@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Beeswarm plot preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.7">
+    <path d="M0 60H400M0 120H400M0 180H400"/>
+  </g>
+  <g opacity="0.85">
+    <g fill="#AEB474">
+      <circle cx="82" cy="150" r="4"/><circle cx="94" cy="140" r="4"/><circle cx="106" cy="154" r="4"/>
+      <circle cx="88" cy="166" r="4"/><circle cx="100" cy="176" r="4"/><circle cx="112" cy="164" r="4"/>
+      <circle cx="82" cy="184" r="4"/><circle cx="104" cy="190" r="4"/>
+    </g>
+    <g fill="#8AAB9F">
+      <circle cx="170" cy="120" r="4"/><circle cx="182" cy="110" r="4"/><circle cx="194" cy="126" r="4"/>
+      <circle cx="176" cy="138" r="4"/><circle cx="188" cy="148" r="4"/><circle cx="200" cy="136" r="4"/>
+      <circle cx="164" cy="154" r="4"/><circle cx="192" cy="162" r="4"/>
+    </g>
+    <g fill="#AAAC8D">
+      <circle cx="258" cy="94" r="4"/><circle cx="270" cy="84" r="4"/><circle cx="282" cy="100" r="4"/>
+      <circle cx="264" cy="112" r="4"/><circle cx="276" cy="122" r="4"/><circle cx="288" cy="110" r="4"/>
+      <circle cx="252" cy="128" r="4"/><circle cx="280" cy="136" r="4"/>
+    </g>
+    <g fill="#9AC5C9">
+      <circle cx="346" cy="68" r="4"/><circle cx="358" cy="58" r="4"/><circle cx="370" cy="74" r="4"/>
+      <circle cx="352" cy="86" r="4"/><circle cx="364" cy="96" r="4"/><circle cx="376" cy="84" r="4"/>
+      <circle cx="340" cy="102" r="4"/><circle cx="368" cy="110" r="4"/>
+    </g>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.18">
+    <path d="M60 206H386"/>
+  </g>
+</svg>

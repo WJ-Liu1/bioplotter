@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="BubbleViz preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.75">
+    <path d="M0 60H400M0 120H400M0 180H400"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.2">
+    <path d="M58 200H360M58 200V48"/>
+  </g>
+  <g opacity="0.78">
+    <circle cx="104" cy="158" r="17" fill="#9AC5C9"/>
+    <circle cx="148" cy="132" r="25" fill="#54999C"/>
+    <circle cx="190" cy="168" r="12" fill="#B5BA7E"/>
+    <circle cx="224" cy="112" r="30" fill="#DEE9E4"/>
+    <circle cx="262" cy="146" r="19" fill="#9AC5C9"/>
+    <circle cx="300" cy="92" r="23" fill="#B5BA7E"/>
+    <circle cx="332" cy="134" r="14" fill="#54999C"/>
+    <circle cx="130" cy="190" r="9" fill="#DEE9E4"/>
+    <circle cx="278" cy="184" r="11" fill="#AEB474"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.45">
+    <rect x="80" y="212" width="38" height="4" rx="2"/>
+    <rect x="270" y="212" width="46" height="4" rx="2"/>
+  </g>
+</svg>

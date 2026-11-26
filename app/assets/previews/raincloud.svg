@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Raincloud plot preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g stroke="var(--preview-grid,#e2e8f0)" stroke-width="1" opacity="0.7">
+    <path d="M0 60H400M0 120H400M0 180H400"/>
+  </g>
+  <g>
+    <path d="M118 52 C158 60 158 108 118 116 Z" fill="#AEB474" opacity="0.28"/>
+    <path d="M118 48 C166 58 166 112 118 120 Z" fill="none" stroke="#AEB474" stroke-width="1.5" opacity="0.5"/>
+    <rect x="122" y="118" width="26" height="46" rx="5" fill="#DCE6E1" stroke="#AEB474" stroke-width="1.5"/>
+    <line x1="135" y1="130" x2="135" y2="152" stroke="#AAAC8D" stroke-width="2.5"/>
+    <line x1="127" y1="130" x2="143" y2="130" stroke="#AAAC8D" stroke-width="2"/>
+    <line x1="127" y1="152" x2="143" y2="152" stroke="#AAAC8D" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M282 58 C242 66 242 112 282 120 Z" fill="#8AAB9F" opacity="0.28"/>
+    <path d="M282 54 C234 64 234 116 282 124 Z" fill="none" stroke="#8AAB9F" stroke-width="1.5" opacity="0.5"/>
+    <rect x="252" y="122" width="26" height="44" rx="5" fill="#A5B473" stroke="#8AAB9F" stroke-width="1.5"/>
+    <line x1="265" y1="133" x2="265" y2="154" stroke="#9AC5C9" stroke-width="2.5"/>
+    <line x1="257" y1="133" x2="273" y2="133" stroke="#9AC5C9" stroke-width="2"/>
+    <line x1="257" y1="154" x2="273" y2="154" stroke="#9AC5C9" stroke-width="2"/>
+  </g>
+  <g fill="#AEB474" opacity="0.75">
+    <circle cx="108" cy="178" r="2.6"/><circle cx="118" cy="170" r="2.6"/><circle cx="128" cy="184" r="2.6"/>
+    <circle cx="136" cy="174" r="2.6"/><circle cx="146" cy="188" r="2.6"/><circle cx="154" cy="180" r="2.6"/>
+    <circle cx="124" cy="196" r="2.6"/><circle cx="142" cy="200" r="2.6"/><circle cx="160" cy="192" r="2.6"/>
+  </g>
+  <g fill="#8AAB9F" opacity="0.75">
+    <circle cx="238" cy="182" r="2.6"/><circle cx="248" cy="174" r="2.6"/><circle cx="258" cy="190" r="2.6"/>
+    <circle cx="268" cy="180" r="2.6"/><circle cx="278" cy="196" r="2.6"/><circle cx="288" cy="184" r="2.6"/>
+    <circle cx="256" cy="200" r="2.6"/><circle cx="274" cy="204" r="2.6"/><circle cx="292" cy="198" r="2.6"/>
+  </g>
+  <line x1="40" y1="206" x2="360" y2="206" stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.2"/>
+</svg>

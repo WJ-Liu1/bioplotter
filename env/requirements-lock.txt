@@ -1,0 +1,13 @@
+# BioPlotter · Python 依赖锁定版本（Python 3.12.7 / Windows x64）
+streamlit==1.55.0
+pandas==2.3.3
+numpy==2.4.3
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.6.0
+kaleido==1.5.2
+Pillow==12.1.1
+networkx==3.6.1
+scipy==1.17.1
+openpyxl==3.1.5
+python-louvain==0.16

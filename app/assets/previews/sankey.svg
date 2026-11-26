@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Sankey diagram preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M74 62 C150 62 150 92 200 92 L200 126 C150 126 150 156 74 156 Z" fill="#54999C" opacity="0.25" stroke="none"/>
+    <path d="M74 74 C150 74 150 134 200 134 L200 168 C150 168 150 178 74 178 Z" fill="#9AC5C9" opacity="0.22" stroke="none"/>
+    <path d="M210 92 C260 92 260 58 326 58 L326 92 C260 92 260 126 210 126 Z" fill="#A2BA80" opacity="0.25" stroke="none"/>
+    <path d="M210 134 C260 134 260 142 326 142 L326 172 C260 172 260 168 210 168 Z" fill="#AAAC8D" opacity="0.22" stroke="none"/>
+  </g>
+  <g>
+    <rect x="56" y="50" width="18" height="78" rx="6" fill="#54999C"/>
+    <rect x="56" y="138" width="18" height="48" rx="6" fill="#9AC5C9"/>
+    <rect x="192" y="82" width="18" height="92" rx="6" fill="#87758E"/>
+    <rect x="326" y="46" width="18" height="56" rx="6" fill="#A2BA80"/>
+    <rect x="326" y="112" width="18" height="70" rx="6" fill="#AAAC8D"/>
+    <rect x="326" y="192" width="18" height="22" rx="6" fill="#AAAC8D"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.45">
+    <rect x="52" y="34" width="26" height="5" rx="2.5"/>
+    <rect x="188" y="66" width="26" height="5" rx="2.5"/>
+    <rect x="322" y="30" width="26" height="5" rx="2.5"/>
+  </g>
+</svg>

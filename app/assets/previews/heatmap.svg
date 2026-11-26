@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="Heatmap preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g opacity="0.95">
+    <g fill="#72A5B0">
+      <rect x="56" y="30" width="24" height="18"/><rect x="80" y="30" width="24" height="18"/>
+      <rect x="152" y="48" width="24" height="18"/><rect x="200" y="30" width="24" height="18"/>
+      <rect x="104" y="66" width="24" height="18"/><rect x="56" y="84" width="24" height="18"/>
+      <rect x="176" y="84" width="24" height="18"/><rect x="224" y="66" width="24" height="18"/>
+      <rect x="80" y="102" width="24" height="18"/><rect x="200" y="102" width="24" height="18"/>
+    </g>
+    <g fill="#B1C5C9">
+      <rect x="104" y="30" width="24" height="18"/><rect x="176" y="30" width="24" height="18"/>
+      <rect x="56" y="48" width="24" height="18"/><rect x="128" y="48" width="24" height="18"/>
+      <rect x="200" y="48" width="24" height="18"/><rect x="80" y="66" width="24" height="18"/>
+      <rect x="152" y="66" width="24" height="18"/><rect x="224" y="84" width="24" height="18"/>
+      <rect x="128" y="102" width="24" height="18"/><rect x="176" y="102" width="24" height="18"/>
+    </g>
+    <g fill="#C6D1A9">
+      <rect x="128" y="30" width="24" height="18"/><rect x="224" y="30" width="24" height="18"/>
+      <rect x="104" y="48" width="24" height="18"/><rect x="56" y="66" width="24" height="18"/>
+      <rect x="176" y="66" width="24" height="18"/><rect x="128" y="84" width="24" height="18"/>
+      <rect x="56" y="102" width="24" height="18"/><rect x="152" y="102" width="24" height="18"/>
+    </g>
+    <g fill="#A3A289">
+      <rect x="176" y="48" width="24" height="18"/><rect x="80" y="48" width="24" height="18"/>
+      <rect x="224" y="48" width="24" height="18"/><rect x="128" y="66" width="24" height="18"/>
+      <rect x="200" y="66" width="24" height="18"/><rect x="104" y="84" width="24" height="18"/>
+      <rect x="224" y="102" width="24" height="18"/><rect x="80" y="84" width="24" height="18"/>
+    </g>
+    <g fill="#71683D">
+      <rect x="56" y="30" width="0" height="0"/>
+      <rect x="152" y="84" width="24" height="18"/><rect x="176" y="120" width="24" height="18"/>
+      <rect x="128" y="120" width="24" height="18"/><rect x="56" y="120" width="24" height="18"/>
+    </g>
+  </g>
+  <g stroke="var(--preview-bg,#f8fafc)" stroke-width="1" opacity="0.9">
+    <path d="M56 30H248M56 48H248M56 66H248M56 84H248M56 102H248M56 120H248"/>
+  </g>
+  <g>
+    <rect x="266" y="30" width="14" height="108" fill="#71683D"/>
+    <rect x="266" y="74" width="14" height="30" fill="#C6D1A9"/>
+    <rect x="266" y="102" width="14" height="36" fill="#72A5B0"/>
+    <rect x="266" y="30" width="14" height="108" fill="none" stroke="var(--preview-ink,#0f172a)" stroke-width="1" opacity="0.3"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.45">
+    <rect x="56" y="150" width="62" height="4" rx="2"/>
+    <rect x="20" y="46" width="26" height="4" rx="2"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.22">
+    <path d="M248 30V120"/>
+  </g>
+</svg>

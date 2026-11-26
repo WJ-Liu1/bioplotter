@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" role="img" aria-label="UpSet plot preview">
+  <rect width="400" height="240" fill="var(--preview-bg,#f8fafc)"/>
+  <g fill="#2B3733">
+    <rect x="132" y="34" width="20" height="46" rx="2"/>
+    <rect x="166" y="48" width="20" height="32" rx="2"/>
+    <rect x="200" y="56" width="20" height="24" rx="2"/>
+    <rect x="234" y="62" width="20" height="18" rx="2"/>
+    <rect x="268" y="68" width="20" height="12" rx="2"/>
+    <rect x="302" y="72" width="20" height="8" rx="2"/>
+  </g>
+  <g fill="#8AAB9F">
+    <rect x="82" y="112" width="34" height="11" rx="2"/>
+    <rect x="88" y="130" width="28" height="11" rx="2"/>
+    <rect x="94" y="148" width="22" height="11" rx="2"/>
+    <rect x="100" y="166" width="16" height="11" rx="2"/>
+    <rect x="106" y="184" width="10" height="11" rx="2"/>
+  </g>
+  <g stroke="var(--preview-ink,#0f172a)" stroke-width="1.5" opacity="0.22">
+    <path d="M126 92H336M126 92V206M126 206H336"/>
+  </g>
+  <g fill="#B7BFC3">
+    <circle cx="142" cy="118" r="4"/><circle cx="176" cy="118" r="4"/><circle cx="210" cy="118" r="4"/>
+    <circle cx="244" cy="118" r="4"/><circle cx="278" cy="118" r="4"/><circle cx="312" cy="118" r="4"/>
+    <circle cx="142" cy="136" r="4"/><circle cx="176" cy="136" r="4"/><circle cx="210" cy="136" r="4"/>
+    <circle cx="244" cy="136" r="4"/><circle cx="278" cy="136" r="4"/><circle cx="312" cy="136" r="4"/>
+    <circle cx="142" cy="154" r="4"/><circle cx="176" cy="154" r="4"/><circle cx="210" cy="154" r="4"/>
+    <circle cx="244" cy="154" r="4"/><circle cx="278" cy="154" r="4"/><circle cx="312" cy="154" r="4"/>
+    <circle cx="142" cy="172" r="4"/><circle cx="176" cy="172" r="4"/><circle cx="210" cy="172" r="4"/>
+    <circle cx="244" cy="172" r="4"/><circle cx="278" cy="172" r="4"/><circle cx="312" cy="172" r="4"/>
+    <circle cx="142" cy="190" r="4"/><circle cx="176" cy="190" r="4"/><circle cx="210" cy="190" r="4"/>
+    <circle cx="244" cy="190" r="4"/><circle cx="278" cy="190" r="4"/><circle cx="312" cy="190" r="4"/>
+  </g>
+  <g stroke="#AEB474" stroke-width="2" opacity="0.9">
+    <path d="M142 136V190M176 136V172M210 136V154M244 136V154M278 136V172M312 136V190"/>
+  </g>
+  <g fill="#AEB474">
+    <circle cx="142" cy="136" r="5"/><circle cx="142" cy="190" r="5"/>
+    <circle cx="176" cy="136" r="5"/><circle cx="176" cy="172" r="5"/>
+    <circle cx="210" cy="136" r="5"/><circle cx="210" cy="154" r="5"/>
+    <circle cx="244" cy="136" r="5"/><circle cx="244" cy="154" r="5"/>
+    <circle cx="278" cy="136" r="5"/><circle cx="278" cy="172" r="5"/>
+    <circle cx="312" cy="136" r="5"/><circle cx="312" cy="190" r="5"/>
+  </g>
+  <g fill="var(--preview-ink,#0f172a)" opacity="0.4">
+    <rect x="142" y="222" width="20" height="4" rx="2"/><rect x="176" y="222" width="20" height="4" rx="2"/>
+    <rect x="210" y="222" width="20" height="4" rx="2"/><rect x="244" y="222" width="20" height="4" rx="2"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/secrets.toml
+.DS_Store
+
+# 内部截图与临时脚本（仅本地保留）
+scripts/_*
+
+# 仅本地保留的 R 参考笔记
+docs/r-fidelity-*.md
+docs/ggtree-paired-tree.md
